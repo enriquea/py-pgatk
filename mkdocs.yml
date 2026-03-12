@@ -94,6 +94,7 @@ nav:
   - Home: index.md
   - Introduction: introduction.md
   - Installation: installation.md
+  - Developer Guide: developer-guide.md
   - pgatk CLI: pgatk-cli.md
   - Use Cases: use-cases.md
   - File Formats: formats.md
